@@ -1,4 +1,3 @@
-
 # Cronômetro
 
 Apenas um simples cronômetro para aprender manipular numeros em html e javascripot
